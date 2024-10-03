@@ -29,6 +29,9 @@
   <div class="collapse" id="navbarToggleExternalContent">
     <div class="bg-black p-4">
       <ul class="nav nav-tabs">
+      <li class="nav-item">
+            <a class="nav-link" href="index.php">home</a>
+        </li>
         <li class="nav-item">
             <a class="nav-link" href="formLogin.php">Login</a>
         </li>
